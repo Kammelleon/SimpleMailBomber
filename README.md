@@ -13,4 +13,4 @@ A program that spams mailbox with messages that you can adjust.
 Program sends mails using 'smtp.gmail.com' on default port: 587.
 
 # Preview
-![main_screen_preview]("https://github.com/Kamelleon/SimpleMailBomber/blob/main/MailBomber.png")
+![main_screen_preview](https://github.com/Kamelleon/SimpleMailBomber/blob/main/MailBomber.png)
