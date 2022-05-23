@@ -10,4 +10,7 @@ A program that spams mailbox with messages that you can adjust.
 6. Set "Number of mails" to be send to victim
 7. Set "Target Email" to email of your victim
 
-Program sends mails using 'smtp.gmail.com' and default port: 587.
+Program sends mails using 'smtp.gmail.com' on default port: 587.
+
+# Preview
+![main_screen_preview]("https://github.com/Kamelleon/SimpleMailBomber/blob/main/MailBomber.png")
